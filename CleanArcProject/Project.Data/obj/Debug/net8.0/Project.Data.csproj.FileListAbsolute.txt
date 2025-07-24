@@ -1,0 +1,12 @@
+E:\C#\Fawry\CleanArcProject\Project.Data\bin\Debug\net8.0\Project.Data.deps.json
+E:\C#\Fawry\CleanArcProject\Project.Data\bin\Debug\net8.0\Project.Data.dll
+E:\C#\Fawry\CleanArcProject\Project.Data\bin\Debug\net8.0\Project.Data.pdb
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\Project.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\Project.Data.AssemblyInfoInputs.cache
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\Project.Data.AssemblyInfo.cs
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\Project.Data.csproj.CoreCompileInputs.cache
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\Project.Data.sourcelink.json
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\Project.Data.dll
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\refint\Project.Data.dll
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\Project.Data.pdb
+E:\C#\Fawry\CleanArcProject\Project.Data\obj\Debug\net8.0\ref\Project.Data.dll
