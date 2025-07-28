@@ -1,5 +1,5 @@
 
-# 🧼 Clean Architecture Web API (.NET)
+#  Clean Architecture Web API (.NET)
 
 This project is a scalable and maintainable **ASP.NET Core Web API** built using the **Clean Architecture pattern**, which separates concerns across different layers: **API**, **Application/Service**, **Domain**, and **Infrastructure**.
 
